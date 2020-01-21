@@ -1,1 +1,3 @@
-Micah Vantine - testing updating README!
+Micah Vantine
+Ethan Trope
+Spencer Bellucci
