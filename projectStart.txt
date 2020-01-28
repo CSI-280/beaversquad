@@ -1,0 +1,13 @@
+Step 1: First we need clone the project into our directory,
+so open up your bash editor, and type the command "git clone url". 
+So for our team, the command is "git clone https://github.com/CSI-280/beaversquad"
+
+Step 2: Now a directory is created called "beaversquad", so all we have to do is move into
+this directory. To do this, run the command "cd beaversquad". The only problem is anything we do here
+gets changed on the main branch, so we will want to make our own branch. 
+
+Step 3: To create a new branch, we write the command "checkout -b branchname", and just replace 
+"branchname" with what you want to call your branch. 
+
+Step 4: Now we have our own branch that we are free to work on. We can either work on the files from the
+editor, or we can change the physical files.
