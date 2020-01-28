@@ -1,0 +1,11 @@
+title {
+	color: red;
+	text-align: center;
+}
+body {
+	background-color: tomato;
+}
+p {
+	font-family: "Times New Roman";
+	margin-top: 100px;
+}
