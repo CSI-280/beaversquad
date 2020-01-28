@@ -1,0 +1,4 @@
+- PAGE IDEAS USING THE API -
+1) Create a page for viewing a list of a selected animal/animals (available for adoption?)
+2) Create a page for searching by specified breed, name, age, etc...?
+3) Create a page for viewing the locations (organizations) of available animals?
