@@ -16,4 +16,16 @@ Dog:
 *Dog poop bags (You need this to pick up after you dog while on a walk)
 *Dog treats (For when you want to spoil them)
 
-(Page will be updated if there are other pets availible for adoption)
+Cat:
+
+*Cat food (Dry and Wet food)
+*Bowls for food and water
+*Cat bed
+*Scratching Post (If a cat has a cratching post they are less likely to sceatch up furniature)
+*Litter Box
+*Scoop (To help clean Litter box)
+*Spare Litter
+*Toys (Interactive toys and solo play toys)
+*Cat Carrier
+*Cat Treats (Optional)
+
